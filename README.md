@@ -9,6 +9,6 @@ Given a dataset diffData.csv with columns time, distance and Diffusion, a classi
 1. Predict the Bulk Diffusivity value using linear regression<br>
 2. Predict the Grain Boundary Diffusivity value using linear regression<br>
 
-<h3>Problem 2</h3><br>
+<h3>Problem 2</h3>
 1. Using Logistic Regression classify bulk diffusion and grain boundary diffusion. Input data is distance and time, and target column is Diffusion. Report the confusion matrix and classification report.<br>
 2. Now scale or normalize the data according to Xnew = (X - mean)/std and repeat the previous technique. Report the confusion matrix and classification report.
